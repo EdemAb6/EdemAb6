@@ -1,7 +1,7 @@
 # 👋 1. Who am I?
 
 Hey! I'm **Edem Abdeddaiem**, a final-year Computer Engineering student specializing in IoT, based in Tunisia 🇹🇳.  
-I'm passionate about software development, problem-solving, and building things that actually work (eventually, after debugging).
+I'm passionate about software development, problem-solving, and building things that actually work (eventually).
 
 💡 Fun fact: I enjoy figuring out how things work almost as much as breaking them.
 
@@ -9,9 +9,6 @@ I'm passionate about software development, problem-solving, and building things 
 
 - 🌐 **Full-Stack Web Development** — Building modern web applications and exploring frontend/backend architecture. 
 - 📡 **IoT Monitoring Platform** — Developing a platform to collect, manage, and visualize IoT data. 
-- 🐍 **Python Web Scraper** — Extracting and organizing data from websites using Python, Requests, and BeautifulSoup.
-
-📚 **Currently learning:** Node.js, Express.js, REST APIs, React, and backend development fundamentals.
 
 # 🛠️ 3. What tools do I use?
 
@@ -22,8 +19,7 @@ I'm passionate about software development, problem-solving, and building things 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Frontend / Backend
 
@@ -32,10 +28,17 @@ I'm passionate about software development, problem-solving, and building things 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 ### Embedded / Hardware
 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet_of_Things-0082FC?style=for-the-badge&logo=esphome&logoColor=white)
 
 ### Tools
 
